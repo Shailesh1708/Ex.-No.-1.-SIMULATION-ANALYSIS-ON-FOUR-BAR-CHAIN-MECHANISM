@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE:02.03.2026 
 
 ## AIM:
 
@@ -20,43 +20,76 @@
 ###  ●	Geometry instruments.
 
 ## PROCEDURE:
-###   1. Draw a horizontal line AD of length 120 mm. 
-###   2. At A, Draw a line AB of length 30 mm at an angle of 600 
-###   3. With B as centre, BC = AD = 120mm draw an arc 
-###   4. With D as centre, CD = 60 mm draw another arc 
-###   5. Join BC and DC 
+###   1. Displacement Analysis
+
+### Step 1 First draw a horizontal reference line and mark a point A on the sheet.
+
+### Step 2 From point A, draw the fixed link AD with a length of 120 mm in the horizontal direction and mark the other end as D.
+### Step 3 This link represents the fixed frame of the mechanism.
+
+### Step 4 At point A, construct an angle of 60° with respect to the line AD using a protractor.
+
+### Step 5 Along this 60° direction, draw the crank AB with a length of 30 mm and mark the end point as B.
+
+### Step 6 Now with B as centre, take a compass radius equal to BC = 120 mm and draw an arc.
+###        This arc represents the possible positions of point C.
+
+### Step 7 Next, with D as centre, take a compass radius equal to CD = 60 mm and draw another arc cutting the previous arc.
+
+### Step 8 The intersection point of the two arcs gives the location of point C.
+
+### Step 9 Join B to C to form the coupler link BC.
+
+### Step 10 Join C to D to form the rocker link CD.
+
+### Thus the four bar chain mechanism ABCD is obtained in its displaced position.
+### This completes the displacement analysis of the mechanism. 
+  
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/a99fb530-e8df-49bf-9b2c-d537ff992534)
 
-###   This value of VBA is used to decide the scale for the velocity diagram 
-###   Let us construct the velocity diagram taking a scale: 
-###   0.3141 m/s = 60 mm (say) 
-###   1. The fixed link AD, appears as a point in the velocity diagram 
-###   2. From a, draw ab = 60mm, perpendicular to AB in configuration diagram and in the direction of velocity (downward direction) 
-###   3. From b, draw vector bc perpendicular to BC
-###   4. From (a,d), draw vector cd perpendicular to CD. This will intersect the previous vector at c.  
+###   2. Velocity Analysis
+###    Angular velocity of crank AB
+###    𝜔AB=2𝜋𝑁/60
+###    𝜔AB=2𝜋×100/60
+###    𝜔AB=10.47 rad/s
+###    This value of VBA is used to decide the scale for the velocity diagram 
+###    velocity at point B
+###    Step 2: Velocity of point B
+###    𝑉𝐵=𝜔𝐴𝐵×𝐴𝐵
+###    VB=10.47×0.03
+###    𝑉𝐵=0.314 m/s
+ 
+
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/76094ae8-a8af-48f3-b2c4-472ab800cc8e)
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/cb44fabe-6e16-4550-a2ec-4ee0f4cb6774)
 
-###   1. First measure cd from velocity diagram  
-###   2. Now, Calculate VCd using the scale of the diagram 
-###   3. Finally, calculate ωcd from the relation v = rω 
-###   Thus, link CD revolves with ωcd = 4 rad/s (clockwise about D) 
+###  Step 3: Velocity diagram
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/97627fa4-0d38-412c-8745-082bd7b85299)
+### 1. Take velocity scale(Example: 1mm=10mm/s).
+### 2. Draw vector ob perpendicular to AB representing VB. 
+### 3. From b, draw a line perpendicular to BC.
+### 4. From o, draw a line perpendicular to CD.
+### 5. Intersection gives point c.
+![image]<img width="1920" height="1020" alt="Screenshot 2026-03-09 201854" src="https://github.com/user-attachments/assets/75bedf27-1376-483e-9aa4-2284b903631e" />
+![image]<img width="1144" height="827" alt="Screenshot 2026-03-09 202617" src="https://github.com/user-attachments/assets/3993e23e-9854-4865-9a14-065e42c2daf8" />
+![image]<img width="1132" height="838" alt="Screenshot 2026-03-09 202305" src="https://github.com/user-attachments/assets/4e2cf3ac-cb45-4f6a-9bd1-4c7f0e8c41d9" />
+![image]<img width="1137" height="829" alt="Screenshot 2026-03-09 202323" src="https://github.com/user-attachments/assets/16e4123c-d544-4d63-8c0e-69a8e735fa5a" />
+![image]<img width="1142" height="827" alt="Screenshot 2026-03-09 202751" src="https://github.com/user-attachments/assets/dea00447-0aef-4fb5-9bcd-8c8f2c88c211" />
+![image]<img width="1141" height="830" alt="Screenshot 2026-03-09 202805" src="https://github.com/user-attachments/assets/dfe25350-5727-464a-9578-0ddfc96c86f2" />
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/15f7e50d-486d-46d0-bed0-8f51b36e7396)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/b01469ff-cb80-4ca6-a6ef-ae521ee9b717)
 
 
 ## Output:
+###  Angular velocity at AB
+###  ωAB​=10.47 rad/s.
+###  Velocity at B
+###  VB=0.314m/s.
 
-
-### Name:
-### Register Number: 
+### Name:Shailesh S S
+### Register Number:212225040397 
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.

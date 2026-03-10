@@ -1,6 +1,6 @@
 # Ex. No.  1- SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE:02.03.2026 
+## DATE: 02.03.2026 
 
 ## AIM:
 
@@ -89,8 +89,8 @@
 ###  Velocity at B
 ###  VB=0.314m/s.
 
-### Name:Shailesh S S
-### Register Number:212225040397 
+### Name: Shailesh S S
+### Register Number: 25007622
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.

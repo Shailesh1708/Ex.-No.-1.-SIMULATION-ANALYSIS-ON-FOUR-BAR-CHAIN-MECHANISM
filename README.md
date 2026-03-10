@@ -84,10 +84,7 @@
 <img width="1141" height="830" alt="Screenshot 2026-03-09 202805" src="https://github.com/user-attachments/assets/dfe25350-5727-464a-9578-0ddfc96c86f2" />
 
 
-###  Angular velocity at AB
-###  ωAB​=10.47 rad/s.
-###  Velocity at B
-###  VB=0.314m/s.
+
 
 ### Name: Shailesh S S
 ### Register Number: 25007622
